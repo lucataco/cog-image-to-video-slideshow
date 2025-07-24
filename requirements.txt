@@ -1,0 +1,5 @@
+# Dependencies for image-to-video slideshow model
+Pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+requests==2.31.0
