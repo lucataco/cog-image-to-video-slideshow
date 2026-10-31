@@ -129,4 +129,4 @@ cog predict -i images=@image1.jpg,@image2.jpg,@image3.jpg
 
 ## License
 
-This project is open source. Please check the repository for license details. 
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
